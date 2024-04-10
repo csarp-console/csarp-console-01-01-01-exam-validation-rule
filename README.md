@@ -1,0 +1,1 @@
+# csarp-console-01-01-01-exam-validation-rule
